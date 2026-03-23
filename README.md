@@ -1,0 +1,1 @@
+# project-pos-tauri-releases
